@@ -11,4 +11,9 @@ This project involves the development of an end-to-end system for predicting NYC
 - `./Train.ipynb`: Script for model training.
 
 ## Demonstration
-<video src="BDA_Project_demonstration.mp4"></video>
+[<video src="BDA_Project_demonstration.mp4"></video>](https://github.com/Shanta-11/Big-Data-NYC-Taxi-Fare-Prediction/blob/main/BDA_Project_demonstration.mp4)
+
+## Project Report
+[DA331_Final_Project_Report.pdf](https://github.com/Shanta-11/Big-Data-NYC-Taxi-Fare-Prediction/blob/main/DA331_Final_Project_Report.pdf)
+
+
